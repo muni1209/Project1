@@ -8,5 +8,6 @@ class Main
 		System.out.println("Hello World!");
 		System.out.printlt("test Editplus");
 		System.out.println("create a new branch");
+		System.out.println("select remote Branch");
 	}
 }
