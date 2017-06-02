@@ -6,5 +6,7 @@ class Main
 		System.out.println("add some line to remote repository to local repository");
 		System.out.println("add the local machine value");
 		System.out.println("Hello World!");
+		System.out.printlt("test Editplus");
+		System.out.println("create a new branch");
 	}
 }
