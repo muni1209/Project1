@@ -9,5 +9,6 @@ class Main
 		System.out.printlt("test Editplus");
 		System.out.println("create a new branch");
 		System.out.println("select remote Branch");
+		System.out.println("retrive the detaile remote to local");
 	}
 }
